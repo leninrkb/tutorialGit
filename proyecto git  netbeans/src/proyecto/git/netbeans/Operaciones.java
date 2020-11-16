@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package proyecto.git.netbeans;
 
 /**
@@ -11,5 +10,7 @@ package proyecto.git.netbeans;
  * @author lenin
  */
 public class Operaciones {
-    
+    public void Suma() {
+
+    }
 }
