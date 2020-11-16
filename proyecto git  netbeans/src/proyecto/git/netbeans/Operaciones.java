@@ -10,7 +10,13 @@ package proyecto.git.netbeans;
  * @author lenin
  */
 public class Operaciones {
+
     public void Suma() {
 
+    }
+    
+    public int resta(){
+        
+    return 0;
     }
 }
