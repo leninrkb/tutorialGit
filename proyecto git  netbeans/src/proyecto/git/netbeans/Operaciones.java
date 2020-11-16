@@ -12,4 +12,9 @@ package proyecto.git.netbeans;
  */
 public class Operaciones {
     
+    public int resta(){
+        
+    return 0;
+    }
+    
 }
